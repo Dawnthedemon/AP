@@ -1,2 +1,2 @@
 # AP
-A.P: Application Packager
+A.P: Application Packager for computer craft
